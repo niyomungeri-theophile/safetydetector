@@ -1,0 +1,301 @@
+Temperature,humidity,oxygen,Likely Disease / Notes
+38,59,21.2,Normal
+38.3,62,20.7,Mushy Chick Disease / Aspergillosis Risk
+37.7,61,21,Normal
+36.6,58,20.7,Hypothermia
+37.9,61,20.9,Coccidiosis Risk (High humidity)
+37.6,60,20.9,Normal
+37.6,61,21.1,Normal
+38.9,63,20.9,Heat Stress
+38.4,65,20.7,Mushy Chick Disease / Aspergillosis Risk
+38.5,62,20.9,Heat Stress
+37.7,61,21,Normal
+38,63,20.8,Normal
+37.3,57,21.1,Normal
+38.6,67,21.1,Heat Stress
+38.8,63,21,Heat Stress
+37.7,59,21.2,Normal
+37.7,62,21.1,Normal
+38.6,65,20.9,Mushy Chick Disease / Aspergillosis Risk
+38.9,65,21.2,Heat Stress
+38.7,62,21,Heat Stress
+38.1,63,20.9,Heat Stress
+38.5,63,21,Heat Stress
+37.3,59,20.9,Normal
+37.6,60,20.8,Normal
+38.4,63,20.8,Heat Stress
+36.2,59,20.7,Hypothermia
+37.1,63,21,Normal
+38.4,62,20.9,Coccidiosis Risk (High humidity)
+36.1,57,20.6,Hypothermia
+38.3,62,20.9,Heat Stress
+38.1,65,20.6,Mushy Chick Disease / Aspergillosis Risk
+37.9,62,21.2,Coccidiosis Risk (High humidity)
+37.9,59,21,Normal
+38,61,21.2,Normal
+36.7,56,21,Hypothermia
+37.3,59,21.2,Normal
+37.9,60,21,Normal
+37.8,61,20.9,Normal
+37.4,57,20.8,Normal
+37,59,20.7,Hypothermia
+37,57,20.6,Hypothermia
+38.9,65,21.1,Heat Stress
+37.8,61,20.9,Normal
+36.7,58,20.9,Hypothermia
+38.4,64,21.1,Coccidiosis Risk (High humidity)
+37.9,63,20.6,Mushy Chick Disease / Aspergillosis Risk
+38.2,62,21.1,Coccidiosis Risk (High humidity)
+36.5,58,20.7,Hypothermia
+39.4,67,21,Heat Stress
+36.4,57,20.9,Hypothermia
+37.1,57,21.1,Normal
+37.8,66,20.9,Mushy Chick Disease / Aspergillosis Risk
+36.8,58,20.7,Hypothermia
+39.1,65,21.2,Heat Stress
+37.9,58,20.8,Normal
+37.3,61,21.1,Normal
+37,60,20.7,Normal
+36.5,56,20.9,Hypothermia
+37.1,63,21,Normal
+36.6,57,20.5,Hypothermia
+37.7,60,20.9,Normal
+37.7,59,21,Normal
+37.7,62,21,Normal
+37.2,58,21.1,Normal
+38.5,64,20.9,Coccidiosis Risk (High humidity)
+37.4,60,21.1,Normal
+38.1,60,20.8,Normal
+37.5,61,21.1,Normal
+38.3,65,20.9,Mushy Chick Disease / Aspergillosis Risk
+37.7,63,21.1,Coccidiosis Risk (High humidity)
+38.1,64,20.8,Mushy Chick Disease / Aspergillosis Risk
+38.4,64,20.8,Mushy Chick Disease / Aspergillosis Risk
+38.3,62,21.2,Coccidiosis Risk (High humidity)
+38.3,66,20.7,Mushy Chick Disease / Aspergillosis Risk
+37.6,65,21,Coccidiosis Risk (High humidity)
+37.1,57,20.6,Hypothermia
+37.9,60,20.9,Normal
+37.8,63,20.6,Mushy Chick Disease / Aspergillosis Risk
+38.7,60,20.9,Heat Stress
+36.5,56,20.6,Hypothermia
+38.4,63,21,Heat Stress
+38,62,20.9,Mushy Chick Disease / Aspergillosis Risk
+38.1,61,21.1,Normal
+37.1,59,21,Normal
+38.5,65,21.1,Coccidiosis Risk (High humidity)
+37.8,61,20.8,Normal
+38.5,64,20.8,Mushy Chick Disease / Aspergillosis Risk
+38.4,65,21.1,Coccidiosis Risk (High humidity)
+36.8,58,20.8,Hypothermia
+37.9,58,21.1,Normal
+38.3,62,20.8,Heat Stress
+37.5,63,21.1,Normal
+37.7,59,21.2,Normal
+36.3,56,20.7,Hypothermia
+38.2,64,21,Coccidiosis Risk (High humidity)
+36.3,59,20.7,Hypothermia
+37.1,60,21,Normal
+37.6,60,20.8,Normal
+37.8,58,20.8,Normal
+38.7,63,21.1,Heat Stress
+38.1,62,21,Mushy Chick Disease / Aspergillosis Risk
+37,58,21.1,Normal
+39.5,65,21,Heat Stress
+37.8,61,21,Normal
+37.9,62,20.9,Normal
+38.2,59,21.1,Normal
+37.7,61,20.9,Normal
+38,61,20.9,Coccidiosis Risk (High humidity)
+38.3,64,20.9,Coccidiosis Risk (High humidity)
+38.4,64,20.9,Mushy Chick Disease / Aspergillosis Risk
+37.5,62,21.1,Normal
+36.9,57,20.8,Hypothermia
+37.4,61,21,Normal
+37.1,59,21,Normal
+36.4,56,20.5,Hypothermia
+37.1,58,21.1,Normal
+38.1,63,20.6,Mushy Chick Disease / Aspergillosis Risk
+38.2,62,21.2,Normal
+37.1,58,21,Normal
+38.8,61,21.1,Heat Stress
+39.4,67,21.1,Heat Stress
+38.2,65,20.9,Mushy Chick Disease / Aspergillosis Risk
+37.9,63,20.8,Normal
+36.4,60,20.9,Hypothermia
+37.8,61,21.1,Normal
+38,59,21,Normal
+37.6,61,20.9,Normal
+38,60,21,Normal
+38.1,58,21.2,Normal
+38.7,65,20.9,Mushy Chick Disease / Aspergillosis Risk
+37.9,59,20.9,Normal
+37.3,62,21.1,Normal
+39.2,63,21,Heat Stress
+37.6,61,20.8,Coccidiosis Risk (High humidity)
+38,60,21.2,Normal
+37.6,63,20.8,Normal
+36.2,57,20.9,Hypothermia
+37.2,60,20.9,Normal
+36.6,59,20.9,Hypothermia
+38.6,60,20.9,Heat Stress
+37.7,60,21.1,Normal
+36.5,58,20.6,Hypothermia
+37.6,59,21.2,Normal
+37.9,63,20.9,Mushy Chick Disease / Aspergillosis Risk
+37.7,59,20.7,Normal
+37.5,60,21,Normal
+37.5,61,21.2,Normal
+37.7,59,21,Normal
+37.4,61,21,Normal
+38.7,62,21,Heat Stress
+37.5,64,21.2,Coccidiosis Risk (High humidity)
+38,61,21.1,Normal
+39.4,64,21.1,Heat Stress
+37.1,60,21.1,Normal
+38.2,62,20.8,Coccidiosis Risk (High humidity)
+36.1,56,20.9,Hypothermia
+37.9,59,20.9,Normal
+38.6,67,21,Heat Stress
+37.2,58,20.7,Normal
+36.9,59,20.8,Normal
+38,61,20.9,Normal
+38,59,21,Normal
+36.6,56,20.7,Hypothermia
+39.5,67,21,Heat Stress
+38.8,63,21.1,Heat Stress
+37.2,59,20.9,Normal
+38.1,59,21.1,Normal
+37.7,65,20.9,Coccidiosis Risk (High humidity)
+37.5,61,21.1,Normal
+36.8,57,20.8,Hypothermia
+38.1,63,20.9,Heat Stress
+36.3,58,20.8,Hypothermia
+38.9,64,21,Heat Stress
+38.2,66,21,Mushy Chick Disease / Aspergillosis Risk
+36.3,60,20.8,Hypothermia
+38.1,65,21,Coccidiosis Risk (High humidity)
+37.7,65,21.1,Coccidiosis Risk (High humidity)
+38.8,64,21.2,Heat Stress
+37.9,65,20.9,Mushy Chick Disease / Aspergillosis Risk
+38.7,64,20.7,Mushy Chick Disease / Aspergillosis Risk
+39.4,67,20.8,Heat Stress
+38.1,62,20.8,Normal
+36.4,59,20.9,Hypothermia
+37.8,65,20.8,Mushy Chick Disease / Aspergillosis Risk
+38.9,60,20.9,Heat Stress
+36.6,55,20.5,Hypothermia
+38,59,21,Normal
+37.8,61,21.1,Normal
+37.8,60,21.2,Normal
+38.2,63,20.7,Mushy Chick Disease / Aspergillosis Risk
+37.9,61,20.8,Coccidiosis Risk (High humidity)
+37.7,61,20.9,Coccidiosis Risk (High humidity)
+37.5,58,20.7,Normal
+37.3,61,21.2,Normal
+37.6,57,20.9,Normal
+38.2,62,20.9,Coccidiosis Risk (High humidity)
+38.6,61,21.1,Heat Stress
+37.9,59,21,Normal
+36.6,60,20.6,Hypothermia
+36.9,58,20.9,Hypothermia
+38.3,66,20.7,Mushy Chick Disease / Aspergillosis Risk
+36.8,57,20.5,Hypothermia
+38.2,62,21,Heat Stress
+37.6,58,21,Normal
+37.8,61,20.9,Normal
+37.6,60,20.9,Normal
+37.5,59,20.8,Normal
+37.8,65,20.7,Mushy Chick Disease / Aspergillosis Risk
+36,60,20.7,Hypothermia
+37.1,61,21,Normal
+36.7,56,20.8,Hypothermia
+36.7,59,20.7,Hypothermia
+37.4,60,20.8,Normal
+36.9,59,20.8,Normal
+39,67,21.2,Heat Stress
+38.5,64,21.1,Heat Stress
+36.7,58,20.7,Hypothermia
+36.3,59,20.9,Hypothermia
+37.9,59,20.9,Normal
+37.2,57,20.8,Normal
+38.4,63,20.7,Mushy Chick Disease / Aspergillosis Risk
+37.4,58,20.8,Normal
+36.7,56,20.8,Hypothermia
+37.8,61,21.1,Normal
+36.1,59,20.7,Hypothermia
+36.8,59,20.9,Hypothermia
+37.7,59,20.9,Normal
+37.3,62,20.9,Normal
+36.6,56,20.8,Hypothermia
+36.9,58,21,Normal
+37.6,61,21,Normal
+37.6,57,21,Normal
+37.7,58,20.9,Normal
+38.9,63,20.8,Heat Stress
+37.8,63,20.8,Mushy Chick Disease / Aspergillosis Risk
+38,66,20.8,Mushy Chick Disease / Aspergillosis Risk
+37.3,63,21,Normal
+37.5,59,20.9,Normal
+39,63,21.1,Heat Stress
+37,57,21,Normal
+37.2,62,21,Normal
+37.4,58,21.2,Normal
+36.1,60,20.9,Hypothermia
+36.9,59,20.9,Normal
+37.7,62,20.8,Mushy Chick Disease / Aspergillosis Risk
+37.4,58,20.9,Normal
+38,58,21.2,Normal
+37.8,58,21,Normal
+38.9,63,21.2,Heat Stress
+36.4,55,20.9,Hypothermia
+39.3,64,21,Heat Stress
+36.8,59,20.7,Hypothermia
+36.7,60,20.9,Normal
+36.1,58,20.6,Hypothermia
+36.6,58,20.9,Hypothermia
+38,63,21.1,Normal
+38.5,60,21.2,Heat Stress
+39.3,64,20.9,Heat Stress
+36.8,57,21,Hypothermia
+38.6,64,21.1,Heat Stress
+38.3,62,20.8,Coccidiosis Risk (High humidity)
+37.4,59,21.1,Normal
+38.5,65,20.9,Mushy Chick Disease / Aspergillosis Risk
+37,56,20.7,Hypothermia
+38.1,64,21,Coccidiosis Risk (High humidity)
+36.8,56,20.6,Hypothermia
+38.9,64,21,Heat Stress
+37.1,62,21,Normal
+36.3,57,21,Hypothermia
+37.5,58,20.9,Normal
+36.4,58,20.8,Hypothermia
+38.2,64,20.9,Heat Stress
+37.6,59,20.9,Normal
+36.4,55,20.5,Hypothermia
+37.9,62,21,Normal
+39,62,20.9,Heat Stress
+37.5,59,21,Normal
+36.7,58,20.6,Hypothermia
+38,59,20.9,Normal
+38.2,60,20.8,Heat Stress
+37.8,61,21.1,Normal
+38.6,62,21,Mushy Chick Disease / Aspergillosis Risk
+37.9,65,20.6,Mushy Chick Disease / Aspergillosis Risk
+38.2,66,20.8,Mushy Chick Disease / Aspergillosis Risk
+37.7,60,20.9,Normal
+36.4,59,20.7,Hypothermia
+36.9,58,20.8,Hypothermia
+38.8,63,21,Heat Stress
+38.4,62,20.9,Heat Stress
+39,67,20.9,Heat Stress
+37.6,59,20.9,Normal
+36.4,57,20.8,Hypothermia
+37.4,60,20.9,Normal
+37.1,56,20.6,Hypothermia
+37.6,65,20.9,Coccidiosis Risk (High humidity)
+36.8,57,20.5,Hypothermia
+37.6,60,21,Normal
+39.3,66,21.1,Heat Stress
+37.5,61,20.9,Coccidiosis Risk (High humidity)
+37.1,61,20.9,Normal
